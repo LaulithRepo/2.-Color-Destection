@@ -1,2 +1,2 @@
-# 2.-Color-Destection
+# 2.-Color-Detection
 Webcam Detection
